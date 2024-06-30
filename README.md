@@ -21,7 +21,7 @@ githubUsername: 'Adidasg'
 
 ### Here are some ideas to help you get started:
 
-- 🔭 I’m currently learning  <strong>Full-Stack Web Development</strong>
+- 🔭 I’m currently exploring  <strong>Full-Stack Web Development</strong>
 - 🌱 I’m currently  learning <strong>TesnorFlow,Pytorch and MATLAB</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects and Open sources</strong>
 - 🤔 I’m looking for help in <strong>Machine Learning / Data Science</strong>
